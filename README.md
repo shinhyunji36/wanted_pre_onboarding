@@ -31,7 +31,7 @@ pytorch를 활용하는 자연어 처리 과정입니다.<br>
   - 특정 기간동안의 동영상 트렌드 기록/연구 및 데이터를 다양한 관점으로 관찰하고 인사이트를 시각화했습니다.
 
 ---
-## Team Assignments
+## Team Projects
 - [기업과제 3 (Semantic Textual Similarity)](https://github.com/SYKflyingintheSKY/Wanted_PreOnBoarding_AI/tree/main/%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C/%EA%B3%BC%EC%A0%9C3_STS)
 
 
