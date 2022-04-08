@@ -32,8 +32,9 @@ pytorch를 활용하는 자연어 처리 과정입니다.<br>
 
 ---
 ## Team Projects
-- [기업과제 3 (Semantic Textual Similarity)](https://github.com/SYKflyingintheSKY/Wanted_PreOnBoarding_AI/tree/main/%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C/%EA%B3%BC%EC%A0%9C3_STS)
+- [기업과제 3 (Semantic Textual Similarity)](https://github.com/SYKflyingintheSKY/Wanted_PreOnBoarding_AI/tree/main/Semantic%20Textual%20Similarity)
 
 
-- [기업과제 4 (Abstractive Text Summarization)](https://github.com/SYKflyingintheSKY/Wanted_PreOnBoarding_AI/tree/main/%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C/%EA%B3%BC%EC%A0%9C4_TextSummarization)
+- 기업과제 4 (Abstractive Text Summarization)
+  - 기업 측 요청으로 인해 비공개 처리
  
